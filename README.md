@@ -1,6 +1,6 @@
 # CodingAssignment
 
-##Case: Survey App
+## Case: Survey App
 
 In this case we want you to create a simple survey web application. 
 
