@@ -14,3 +14,9 @@ Your project should consist of at least two parts: a front end application that 
 For local development we recommend you set up a Docker compose file to run your application. It would be nice that we can setup your project locally by calling `docker-compose build`. We are open to any suggestion about how we should host your app when bringing it in production (e.g. an Azure hosted Kubernetes server).
 
 The goal of the case is not to create a completely finished and polished application, we want to get an idea of your ability to learn, analyse and reason.
+
+## The JSON
+
+In this repository you can find a JSON file called `questionnaire.json`. This JSON contains a datastructure that represents your survey. It contains subjects, questions and answers.
+
+We leave it to you to figure out how to interpit this data. Please write down what questions you had about the data and what assumptions you made.
