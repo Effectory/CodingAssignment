@@ -1,8 +1,8 @@
 # CodingAssignment
 
-## Case: Survey App
+## Case: Questionnaire App
 
-For your Effectory job application, we want you to create a _simple web application_, using the JSON provided to create a survey application, consisting of at least:
+For your Effectory job application, we want you to create a _simple web application_, using the JSON provided to create a questionnaire application, consisting of at least:
 - a _front-end application_ that handles user interaction
 - one or multiple _API's_ that provide the necessary endpoints for the front end
 
@@ -15,7 +15,7 @@ The goal of the assignment is to get an idea of your experience, creativity, and
 
 ## The JSON
 
-In this repository you will find a JSON file called `questionnaire.json`. This JSON contains a datastructure that represents your sample survey. It contains `subjects`, `questions` and `answers`.
+In this repository you will find a JSON file called `questionnaire.json`. This JSON contains a datastructure that represents your sample questionnaire. It contains `subjects`, `questions` and `answers`.
 
 We leave it to you to interpret this data in the way you want. Please write down what questions you had about the data and what assumptions you made.
 
