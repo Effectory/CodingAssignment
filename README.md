@@ -21,14 +21,15 @@ We leave it to you to interpret this data in the way you want. Please write down
 
 ## Tech stack
 
-For the application(s), you can use any language or framework or your choosing, but it is recommended to stay close to Effectory's tech stack, so we get a better understanding of how you fit within our current product portfolio. You can read more about what our Tech Stack contains [here](https://tech.effectory.com/)
+For the application(s), you can use any language or framework or your choosing, but it is recommended to stay close to Effectory's tech stack, so we get a better understanding of how you fit within our current product portfolio. You can read more about what our Tech Stack contains [here](https://tech.effectory.com/).
 
 ## Expectations
 
 Depending on your degree of experience, we would like to see some creative ideas integrated in your application. This is entirely up to you, and you can choose anything you want to enrich your application. Some examples include
 - Using event-based messaging to store the answers of the questionnaire
 - Making the front-end application a PWA
-
-For local development we recommend you set up a Docker compose file to run your application. We want to be able to run your application by calling `docker-compose build`.
+- Set up a Docker compose file to run and/or deploy your application
 
 We are open to any suggestion about how we should host your app when bringing it in production (e.g. an Azure hosted Kubernetes server).
+
+We expect you to spend approximately **10-16 hours** on this application. You can spend more time on it, but this should allow you to set up a sufficient project.
