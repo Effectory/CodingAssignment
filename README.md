@@ -21,7 +21,12 @@ We leave it to you to interpret this data in the way you want. Please write down
 
 ## Tech stack
 
-For the application(s), you can use any language or framework or your choosing, but it is recommended to stay close to Effectory's tech stack, so we get a better understanding of how you fit within our current product portfolio. You can read more about what our Tech Stack contains [here](https://tech.effectory.com/).
+For the application(s), you can use any language or framework or your choosing, but it is recommended to stay close to Effectory's tech stack, so we get a better understanding of how you fit within our current product portfolio.
+More specifically, we suggest you use:
+- C# for the API's / backend
+- Javascript (framework) for the front-end (preferably Aurelia or Angular)
+
+You can read more about what our Tech Stack contains [here](https://tech.effectory.com/).
 
 ## Expectations
 
@@ -30,6 +35,16 @@ Depending on your degree of experience, we would like to see some creative ideas
 - Making the front-end application a PWA
 - Set up a Docker compose file to run and/or deploy your application
 
+Your front-end application should be able to:
+- Run and build without errors
+- Provide the user with an interface for the questionnaire
+- Interact with the API
+
+Your back-end application should be able to:
+- Run and build without errors
+- Provide the front-end application with the questionnaire data
+- Store the questionnaire answers
+
 We are open to any suggestion about how we should host your app when bringing it in production (e.g. an Azure hosted Kubernetes server).
 
-We expect you to spend approximately **10-16 hours** on this application. You can spend more time on it, but this should allow you to set up a sufficient project.
+This assignment can be quite some work. You can spend as much time as you want on it, but in the end we expect a sufficient, working solution.
