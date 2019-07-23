@@ -2,7 +2,7 @@
 
 ## Case: Questionnaire App
 
-For your Effectory job application, we want you to create a _simple web application_, using the JSON provided to create a questionnaire application, consisting of at least:
+For this coding assignment, we want you to create a _simple web application_, using the JSON provided to create a questionnaire interface, consisting of at least:
 - a _front-end application_ that handles user interaction
 - one or multiple _API's_ that provide the necessary endpoints for the front end
 
@@ -45,6 +45,6 @@ Your back-end application should be able to:
 - Provide the front-end application with the questionnaire data
 - Store the questionnaire answers
 
-We are open to any suggestion about how we should host your app when bringing it in production (e.g. an Azure hosted Kubernetes server).
+We are open to any suggestion about how we should host your app when bringing it in production.
 
 This assignment can be quite some work. You can spend as much time as you want on it, but in the end we expect a sufficient, working solution.
